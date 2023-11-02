@@ -44,7 +44,7 @@ main a {
   border: 3px solid rgba(242, 222, 176, 0);
 }
 main a:hover {
-  background-color: rgb(231, 206, 146);
+  background-color: rgb(242, 222, 176);
   border: 3px solid rgb(245, 200, 94);
   box-shadow: 2px 2px 5px rgb(233, 178, 50);
   
